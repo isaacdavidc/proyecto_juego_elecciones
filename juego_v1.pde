@@ -1,4 +1,4 @@
-
+// edit de prueba
 // VARIABLES GENERALES Y NAVEGACIÓN
 
 
